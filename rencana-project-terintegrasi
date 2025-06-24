@@ -1,0 +1,3 @@
+Daftar rencana :
+1. Saya ingin menghubungkan sistem ke node red untuk menampilkan data-data sistem secara real time ke node red sehingga tidak perlu selalu membuka serial monitor
+2. Saya ingin menghubungkan sistem ke sebuah database dan aplikasi sehingga data-data yang dihasilkan sistem tidak hanya ditampilkan saja, tetapi juga dapat disimpan secara keseluruhan dari awal sampai akhir di dalam database tersebut
