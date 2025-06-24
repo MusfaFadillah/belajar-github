@@ -4,5 +4,5 @@ Mata Kuliah : Project Terintegrasi Semester 6
 
 Progres Sekarang :
 1. Udah bikin rangkaian alat
-2. Udah bikin program buat alat
+2. Udah bikin program buat alat di arduino ide
 3. Progres bikin casing
