@@ -1,4 +1,8 @@
 Nama : Musfa Fadillah
 NIM : 2210314048
-Kelas : B
-Mata Kuliah : Project Terintegrasi
+Mata Kuliah : Project Terintegrasi Semester 6
+
+Progres Sekarang :
+1. Udah bikin rangkaian alat
+2. Udah bikin program buat alat
+3. Progres bikin casing
